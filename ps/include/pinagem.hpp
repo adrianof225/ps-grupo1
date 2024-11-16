@@ -18,5 +18,5 @@ const int PINO_MOVER_CONE = 13;
 const int PINO_SENSOR_CORES = 32;
 const int PINO_SENSOR_PROXIMIDADE = 33;
 
-// pinos failsafe
-const int PINO_FAILSAFE = 23;
+// pino microstart
+const int PINO_MICROSTART = 23;
